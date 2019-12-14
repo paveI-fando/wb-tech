@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<products>
+	<product id="id1">
+		<title>smartphone</title>
+		<manufacturer>samsung</manufacturer>
+		<model>galaxy a50</model>
+		<price>255.99</price>
+		<amount>13</amount>
+	</product>
+	<product id="id2">
+		<title>smartphone</title>
+		<manufacturer>samsung</manufacturer>
+		<model>s10 g973</model>
+		<price>800.0</price>
+		<amount>14</amount>
+	</product>
+	<product id="id3">
+		<title>monitor</title>
+		<manufacturer>acer</manufacturer>
+		<model>predator x27 bmiphzx</model>
+		<price>3200.99</price>
+		<amount>2</amount>
+	</product>
+	<product id="id4">
+		<title>monitor</title>
+		<manufacturer>hp</manufacturer>
+		<model>dreamcolor z27x g2</model>
+		<price>2075.27</price>
+		<amount>3</amount>
+	</product>
+	<product id="id5">
+		<title>cable</title>
+		<manufacturer>cablexpert</manufacturer>
+		<model>cc-hdmi4-6</model>
+		<price>6.0</price>
+		<amount>300</amount>
+	</product>
+</products>
