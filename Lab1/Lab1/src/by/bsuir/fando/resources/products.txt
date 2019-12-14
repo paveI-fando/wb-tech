@@ -1,0 +1,7 @@
+"Smartphone""Lenovo k920""6.2""700"
+"Mobile phone""Nokia 3310""2.5""999"
+"Smartphone""Samsung 9""6.2""690"
+"Smart glasses""Samsung touch""1""420"
+"EBook""Sony 1""7""300"
+"Smartphone""Google phn""5.2""450"
+"EBook""Sony 2""6.2""400"
